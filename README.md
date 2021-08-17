@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BB-Code&count_private=true&show_icons=true)](https://github.com/BB-Code/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BB-Code&layout=compact)](https://github.com/BB-Code/github-readme-stats)
+
 <!--
 **BB-Code/BB-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
