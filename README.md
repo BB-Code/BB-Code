@@ -4,17 +4,22 @@
 
 ### lang
 <p>     
+   <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/javascript.svg" alt="typescript" width="48" height="48"/>
    <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/typescript.svg" alt="typescript" width="48" height="48"/>
      <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/go.svg" alt="go" width="40" height="48"/>
      <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/python.svg" alt="python" width="48" height="48"/>
-     <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/php.svg" alt="php" width="48" height="48"/></p>
+     <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/php.svg" alt="php" width="48" height="48"/>
+      <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/haskell.svg" alt="haskell" width="48" height="48"/>
+      <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/csharp.svg" alt="csharp" width="48" height="48"/>
+      <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/html.svg" alt="html" width="48" height="48"/></p>
      
      
 ### framework
 <p>
-
 <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/react.svg" alt="react" width="48" height="48"/>
 <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/vue.svg" alt="vue" width="48" height="48"/>
+   <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/nginx.svg" alt="vue" width="48" height="48"/>
+   
 </p>
 
 
@@ -22,6 +27,10 @@
 ### tools
 
 <p>
+   
+   <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/gulp.svg" width="48" height="48"/>
+   <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/folder-git.svg" width="48" height="48"/>
+   <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/tailwindcss.svg" width="48" height="48"/>
 <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/node.svg" width="48" height="48"/>
   <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/npm.svg" alt="npm" width="48" height="48"/>
 <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/yarn.svg" alt="yarn" width="48" height="48"/>
