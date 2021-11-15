@@ -27,7 +27,7 @@
 ### tools
 
 <p>
-   
+   <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/folder-webpack.svg" width="48" height="48"/>
    <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/gulp.svg" width="48" height="48"/>
    <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/folder-git.svg" width="48" height="48"/>
    <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/tailwindcss.svg" width="48" height="48"/>
