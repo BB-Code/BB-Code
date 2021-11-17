@@ -21,7 +21,7 @@
   <p>
   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_pug.svg" alt="react" width="48" height="48"/>
   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_handlebars.svg" alt="react" width="48" height="48"/>
-
+   <img src="https://github.com/jamesmaguire/vscode-easy-icons/blob/master/icons/jade.svg" alt="react" width="48" height="48"/>
   </p>
      
 ### framework
@@ -50,6 +50,13 @@
    <p>
         <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_mysql.svg" alt="sql" width="48" height="48"/>
          <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_mongo.svg" alt="mongo" width="48" height="48"/>
+</p>
+
+### editor
+
+<p>
+    <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/folder_vscode.svg" alt="sql" width="48" height="48"/>
+   <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/jupyter.svg" alt="sql" width="48" height="48"/>
 </p>
 
 ### tools
