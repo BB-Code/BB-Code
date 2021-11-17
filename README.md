@@ -26,7 +26,8 @@
      
 ### framework
 <p>
-   
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/react.svg" alt="react" width="48" height="48"/>
 <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/vue.svg" alt="vue" width="48" height="48"/>
    <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_flutter.svg" alt="vue" width="48" height="48"/>
@@ -43,13 +44,14 @@
 ### system
 
 <p>
-      <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/folder_type_linux.svg" alt="linux" width="48" height="48"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
    <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/folder_type_macos.svg" alt="macos" width="48" height="48"/>
 </p>
 
 ### database
 
    <p>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
         <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_mysql.svg" alt="sql" width="48" height="48"/>
          <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_mongo.svg" alt="mongo" width="48" height="48"/>
 </p>
@@ -72,12 +74,13 @@
    <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vite.svg" width="48" height="48"/>
    <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_eslint.svg" width="48" height="48"/>
    <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/folder-git.svg" width="48" height="48"/>
-   <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/node.svg" width="48" height="48"/>
    <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/npm.svg" alt="npm" width="48" height="48"/>
    <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/yarn.svg" alt="yarn" width="48" height="48"/>
    <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/markdown.svg" alt="markdown" width="48" height="48"/>
    <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/jenkins.svg" alt="jenkins" width="48" height="48"/>
-  
+  <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/>
+   <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
+   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
 </p>
      
      
