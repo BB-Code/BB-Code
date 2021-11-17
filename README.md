@@ -73,10 +73,10 @@
    <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_bower.svg" width="48" height="48"/>
    <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_grunt.svg" width="48" height="48"/>
    <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/gulp.svg" width="48" height="48"/>
-   <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/folder-webpack.svg" width="48" height="48"/>
+   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_webpack.svg" width="48" height="48"/>
    <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vite.svg" width="48" height="48"/>
    <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_eslint.svg" width="48" height="48"/>
-   <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/folder-git.svg" width="48" height="48"/>
+   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_git.svg" width="48" height="48"/>
    <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/npm.svg" alt="npm" width="48" height="48"/>
    <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/yarn.svg" alt="yarn" width="48" height="48"/>
    <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/markdown.svg" alt="markdown" width="48" height="48"/>
