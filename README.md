@@ -1,4 +1,4 @@
-<center><h1>使用的技术栈</h1></center>
+<center><h1>技术栈</h1></center>
 
 ### lang
 <p>     
