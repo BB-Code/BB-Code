@@ -36,6 +36,8 @@
    <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_less.svg" alt="less" width="48" height="48"/>
     <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_sass.svg" alt="sass" width="48" height="48"/>
    <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_tailwind.svg" alt="linux" width="48" height="48"/>
+    <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_django.svg" alt="linux" width="48" height="48"/>
+   
 </p>
 
 ### system
