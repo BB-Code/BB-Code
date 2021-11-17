@@ -64,9 +64,8 @@
 ### editor
 
 <p>
-   
-    <img src="" alt="sql" width="48" height="48"/>
-   <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/jupyter.svg" alt="sql" width="48" height="48"/>
+    <img src="https://github.com/BB-Code/images/blob/master/vscode.png" alt="vscode" width="40" height="40"/>
+   <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/jupyter.svg" alt="sql" width="50" height="50"/>
 </p>
 
 ### tools
