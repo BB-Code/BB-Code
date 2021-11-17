@@ -1,4 +1,4 @@
-<center><h1>技术栈</h1></center>
+<h1 align = "center">技术栈</h1>
 
 ### lang
 <p>     
