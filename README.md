@@ -46,8 +46,10 @@
 ### system
 
 <p>
+   
+   <img src="https://code.visualstudio.com/assets/images/windows-logo.png" alt="linux" width="40" height="40"/> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-   <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/folder_type_macos.svg" alt="macos" width="48" height="48"/>
+   <img src="https://code.visualstudio.com/assets/images/apple-logo.svg" alt="macos" width="48" height="48"/>
    
 </p>
 
@@ -62,7 +64,8 @@
 ### editor
 
 <p>
-    <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/folder_vscode.svg" alt="sql" width="48" height="48"/>
+   
+    <img src="" alt="sql" width="48" height="48"/>
    <img src="https://github.com/material-theme/vsc-material-theme-icons/blob/master/src/icons/svgs/jupyter.svg" alt="sql" width="48" height="48"/>
 </p>
 
