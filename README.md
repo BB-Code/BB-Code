@@ -1,5 +1,8 @@
 <h1 align = "center">技术栈</h1>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### lang
 <p>     
    <img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/javascript.svg" alt="typescript" title="javascript" width="48" height="48"/>
