@@ -115,10 +115,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-HTML         16 hrs 2 mins   ███████████▒░░░░░░░░░░░░░   45.81 % 
-JavaScript   7 hrs 10 mins   █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-TypeScript   4 hrs 50 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Rust         1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-CSS          1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+HTML         18 hrs 31 mins  █████████████▓░░░░░░░░░░░   54.16 % 
+TypeScript   4 hrs 47 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+JavaScript   3 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Rust         1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Markdown     1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 ```
 <!--END_SECTION:waka-->
