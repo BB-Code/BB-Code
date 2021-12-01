@@ -115,10 +115,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-HTML         21 hrs 3 mins   ███████████▓░░░░░░░░░░░░░   46.97 % 
-JavaScript   4 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-YAML         3 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Python       3 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Markdown     3 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+HTML         19 hrs 15 mins  ██████████▓░░░░░░░░░░░░░░   42.57 % 
+JavaScript   5 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+YAML         3 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Python       3 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Markdown     2 hrs 35 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 ```
 <!--END_SECTION:waka-->
