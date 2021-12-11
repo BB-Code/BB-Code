@@ -115,10 +115,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   25 hrs 12 mins  ███████████████████▒░░░░░   77.42 % 
-JavaScript   2 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-HTML         1 hr 54 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-C#           1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-Go           1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+TypeScript   26 hrs 11 mins  █████████████████████░░░░   84.21 % 
+JavaScript   2 hrs 37 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+HTML         1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+LESS         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 <!--END_SECTION:waka-->
