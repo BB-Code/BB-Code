@@ -116,11 +116,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   57 mins         ██████████▓░░░░░░░░░░░░░░   43.18 % 
-HTML         54 mins         ██████████▒░░░░░░░░░░░░░░   41.08 % 
-JSON         15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Vue.js       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-TypeScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
