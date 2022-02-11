@@ -116,7 +116,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   6 hrs 25 mins   ██████████████████████▓░░   90.48 % 
+C#           17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Other        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+CSS          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 <!--END_SECTION:waka-->
 
