@@ -1,4 +1,4 @@
-<div align="center"><a href="https://app.daily.dev/bobocode"><img src="https://api.daily.dev/devcards/e055a18cb8284958ba546ef75ce2dee9.png?r=4fd" width="400" alt="Lin JinBo's Dev Card"/></a></div>
+<!-- <div align="center"><a href="https://app.daily.dev/bobocode"><img src="https://api.daily.dev/devcards/e055a18cb8284958ba546ef75ce2dee9.png?r=4fd" width="400" alt="Lin JinBo's Dev Card"/></a></div> -->
 <h1 align="center">技术栈</h1>
 
 
