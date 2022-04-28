@@ -117,12 +117,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   29 hrs 11 mins  ████████████████████░░░░░   80.51 %
-TypeScript   2 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-HTML         2 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
-Markdown     1 hr 42 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-CSS          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-LESS         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+JavaScript   23 hrs 53 mins  ██████████████████░░░░░░░   71.96 %
+TypeScript   3 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
+Markdown     2 hrs 42 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+HTML         2 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+LESS         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+CSS          9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
