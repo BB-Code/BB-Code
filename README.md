@@ -1,6 +1,6 @@
 ## 𝑨𝒃𝒐𝒖𝒕 𝑴𝒆
 
-<a href="https://github.com/BB-Code"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right" height="275" /></a>
+<a href="https://github.com/BB-Code"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="right" width='480' /></a>
 
 - 👋 Hi, I’m @BB-Code ![GitHub followers](https://img.shields.io/github/followers/BB-Code?style=social) ![](https://komarev.com/ghpvc/?username=BB-Code&label=visitors)
 - 👀 I’m interested in 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅
