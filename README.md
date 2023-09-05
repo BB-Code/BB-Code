@@ -11,3 +11,11 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BB-Code&count_private=true&show_icons=true)](https://github.com/BB-Code/github-readme-stats)
+
+## Projects
+
+| Project | Language | Stars | Forks | Remark |
+| :----: | :----: | :----: | :----: | :----: |
+| 🐟 [fishflutter](https://github.com/BB-Code/fishflutter) | Dart | ![](https://img.shields.io/github/stars/BB-Code/fishflutter?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/BB-Code/fishflutter?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | flutter 高仿咸鱼APP |
+| 🗣️ [chatgpt-demo](https://github.com/BB-Code/chatgpt-demo) | Javascript | ![](https://img.shields.io/github/stars/BB-Code/chatgpt-demo?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/BB-Code/chatgpt-demo?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 一个基于 chatgpt 的简单的回答程序 |
+| 📃 [element-generator](https://github.com/BB-Code/element-generator) | Javascript | ![](https://img.shields.io/github/stars/BB-Code/element-generator?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/BB-Code/element-generator?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 根据**业务需求**选择生成需要的**代码文件**，**复制粘贴**代码，提升开发效率 |
