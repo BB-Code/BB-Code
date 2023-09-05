@@ -10,7 +10,7 @@
 - 📫 Reach me for email 𝟏𝟓𝟗𝟏𝟗𝟖𝟓𝟒𝟔𝟑𝟗@𝟏𝟔𝟑.𝒄𝒐𝒎
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BB-Code&count_private=true&show_icons=true)](https://github.com/BB-Code/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BB-Code&count_private=true&show_icons=true&theme=radical&bg_color=10,E66447,904E95&title_color=fff&text_color=fff)](https://github.com/BB-Code/BB-Code)
 
 ## Projects
 
